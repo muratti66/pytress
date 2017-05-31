@@ -14,6 +14,10 @@ Features :
   - Body + attachment or direct mail with .eml file
   - Shows the smtp processing time
 
+Supported OS :
+  - Linux
+  - Mac OS X
+
 # Installation :
 Clone git project to server
 ```sh
